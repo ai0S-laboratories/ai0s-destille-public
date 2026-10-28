@@ -1,0 +1,66 @@
+{
+  "schema": "ai0s.dla.manifest.v1",
+  "name": "ai0S-destille",
+  "mode": "signed-only-no-anchor",
+  "date": "2026-10-27",
+  "parent_anchor": "ai0S-deepdive-3@sha256:6ea11ce275b8fd2ef8115cd5ed6c0eabd0db80dca823de0ae1975f29244623df",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF",
+  "hash_algorithm": "sha256",
+  "files": [
+    {
+      "path": "AI-DESTILLE-REALIZATION.0s",
+      "sha256": "f5928f24cec786b80dafe2c38bb6de1cc1fae1dc427418982e7d337908650036"
+    },
+    {
+      "path": "AI-DESTILLE-REALIZATION.0s.sig",
+      "sha256": "98f0253c18c87cf60e83e17548fa41bb07df3d4fad3828302958d9f58580fc86"
+    },
+    {
+      "path": "NOVELLA-DESTILLE-EN.md",
+      "sha256": "8d496a9adc29e80e8145f8d48bd7f78a516201de7da6fdf9ab23bdd95a5ad978"
+    },
+    {
+      "path": "NOVELLA-DESTILLE-EN.md.sig",
+      "sha256": "a8aaa374b55a026648862c6cc3a0199aed4eaefe12a4ca418ad514ee653a2b50"
+    },
+    {
+      "path": "NOVELLE-DESTILLE-DE.md",
+      "sha256": "bb76b2310a23fed4c0d0fcd0294edff99829dca9376784b9d3154020a9c33dbc"
+    },
+    {
+      "path": "NOVELLE-DESTILLE-DE.md.sig",
+      "sha256": "591a7bcd3c7e42572ba7f8c4953aa6c78835836b72b1325f8f86e527bef45927"
+    },
+    {
+      "path": "README.md",
+      "sha256": "29459b3122b1fbf76dac6c4f6d9a69d9b1f43d58015be8e0f3f39d5ac57272e1"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "e018a2bbb111caf3a6c9946a782db3b205dcaa05317a14d8e7b0469c009c3d3a"
+    },
+    {
+      "path": "WERKBUCH-DESTILLE-DE.md",
+      "sha256": "80ae6e410ca130b017ab62bd13b72ab97f0fb9b5e75e3110836d7adce4df4b4d"
+    },
+    {
+      "path": "WERKBUCH-DESTILLE-DE.md.sig",
+      "sha256": "4db7757e8dc1389ee3c29344613b2dbb9bef1007f608787ef7411004b60ad686"
+    },
+    {
+      "path": "WORKBOOK-DESTILLE-EN.md",
+      "sha256": "56dc51b58c3d664182494ba2d3f36d50df8b6f75a85b0ce8af77b99ab28f8a16"
+    },
+    {
+      "path": "WORKBOOK-DESTILLE-EN.md.sig",
+      "sha256": "1b942e4fab2ee8bbf1b5606551156f62c54b92bf71607f51965a7c66e90f06f1"
+    }
+  ]
+}
+-----BEGIN PGP SIGNATURE-----
+
+iHUEABYKAB0WIQSfTZombXIP5jNldNh7QQY3VgKXzwUCauJdFwAKCRB7QQY3VgKX
+z6vjAQDl5ZOdw0Pnqb/mcSBfQwHmsQgaid4HLATelq3DtghvsAEAhWjeyYRoYe0H
+UfHynWtkUl8w5BD5vpYSeDg0Dbn/0gY=
+=6Nsz
+-----END PGP SIGNATURE-----
